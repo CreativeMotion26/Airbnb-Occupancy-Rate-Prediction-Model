@@ -21,10 +21,11 @@ In this project, it aims to predict the occupancy rate of Airbnb listings using 
 
 ## Data Source
 **Inside Airbnb**
+
 https://insideairbnb.com/get-the-data/
 
 ![Screenshot 2024-10-13 at 7 27 34 pm](https://github.com/user-attachments/assets/5d1db34c-0f17-4acf-98d0-b8afac941912)
 
-! Download those datasets from the link
+Download these datasets from the link
 ----
 
